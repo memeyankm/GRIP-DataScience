@@ -1,5 +1,5 @@
-## TSF-DSc-Analytics
-# The Sparks Foundation,  Data science and Business analytics internship
+### TSF-DSc-Analytics
+## The Sparks Foundation,  Data science and Business analytics internship
 Task-1: LinkedIn profile (linkedin.com/in/memeyankm)
 Task-2: Exploring Linear Regression
 Task-3: Exploring K-Means
